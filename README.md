@@ -1,7 +1,13 @@
-# Overview
-This is 3rd project of Data Analyst Nanodegree at Udacity. It gives a hand-on experience in Pandas, NumPy and matplotlib.
+# Data Analyst Nanodegree
 
-# Description
+## Introduction to Data Analysis
+
+## Project: Investigate a Dataset
+
+### Overview
+This is the third project of Data Analyst Nanodegree at Udacity. It gives a hand-on experience in Pandas, NumPy and matplotlib.
+
+### Description
 This data set is from the list of curated data sets provided by Udacity for this project.
 It contains information about 10,000 movies collected from The Movie Database(TMDb).
 * Certain columns, like ‘cast’ and ‘genres’, contain multiple values separated by pipe (|) characters.
