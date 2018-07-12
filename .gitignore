@@ -1,0 +1,9 @@
+# OS X files
+*.DS_Store
+
+# ipynb checkpoints
+*ipynb_ch*
+
+# README exports
+README.pdf
+README.html
