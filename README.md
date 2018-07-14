@@ -4,7 +4,7 @@
 
 ## Project: Investigate a Dataset
 
-### Overview
+### Project Overview
 This is the third project of Data Analyst Nanodegree at Udacity. It gives a hand-on experience in Pandas, NumPy and matplotlib.
 
 ### Description
