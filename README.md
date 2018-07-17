@@ -30,8 +30,6 @@ Some of the practices I learned from this project are:
 
 This data set is from the [list](https://docs.google.com/document/d/e/2PACX-1vTlVmknRRnfy_4eTrjw5hYGaiQim5ctr9naaRd4V9du2B5bxpd8FEH3KtDgp8qVekw7Cj1GLk1IXdZi/pub?embedded=True) of curated data sets provided by Udacity for this project.
 
-It contains information about 10,000 movies collected from The Movie Database(TMDb).
-
 I posed some questions in the starting of the project and then addressed those questions in my analysis.
 
 I used Pandas, NumPy and matplotlib to generate statistical conclusion throughout my project.
@@ -39,10 +37,11 @@ I used Pandas, NumPy and matplotlib to generate statistical conclusion throughou
 Limitations of this data are also mentioned in the conclusion part.
 
 ### Metadata
+
+It contains information about 10,000 movies collected from The Movie Database(TMDb).
+
 - Certain columns, like ‘cast’ and ‘genres’, contain multiple values separated by pipe (|) characters.
-
 - There are some odd characters in the ‘cast’ column. They are not important because this columns will not be included in our analysis.
-
 - The final two columns ending with “_adj” show the budget and revenue of the associated movie in terms of 2010 dollars accounting for inflation over time.
 
 ### Libraries
