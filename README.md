@@ -6,13 +6,13 @@
 
 ### Project Overview
 
-This is the third project of Data Analyst Nanodegree at Udacity. In this project, I will analyze a dataset and then communicate my findings about it. I will use the Python libraries NumPy, pandas, and Matplotlib to make my analysis easier.
+This is the third project of Data Analyst Nanodegree at Udacity. In this project, we'll analyze a dataset and then communicate our findings about it. We will use the Python libraries NumPy, pandas, and Matplotlib to make our analysis easier.
 
 ### Why this project
 
-In this project, I'll go through the data analysis process and see how everything fits together. Later Nanodegree projects will focus on individual pieces of the data analysis process ( like EDA, Data Wrangling and Data Story Telling ).
+In this project, we'll go through the data analysis process and see how everything fits together. Later Nanodegree projects will focus on individual pieces of the data analysis process ( like EDA, Data Wrangling and Data Story Telling ).
 
-I'll use the Python libraries NumPy, pandas, and Matplotlib, which make writing data analysis code in Python a lot easier! Not only that, these are sought-after skills by employers!
+We'll use the Python libraries NumPy, pandas, and Matplotlib, which make writing data analysis code in Python a lot easier! Not only that, these are sought-after skills by employers!
 
 ### What I learned
 
@@ -34,7 +34,7 @@ It contains information about 10,000 movies collected from The Movie Database(TM
 
 - Certain columns, like ‘cast’ and ‘genres’, contain multiple values separated by pipe (|) characters.
 
-- There are some odd characters in the ‘cast’ column. They are not important because this columns will not be included in my analysis.
+- There are some odd characters in the ‘cast’ column. They are not important because this columns will not be included in our analysis.
 
 - The final two columns ending with “_adj” show the budget and revenue of the associated movie in terms of 2010 dollars accounting for inflation over time.
 
