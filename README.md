@@ -5,21 +5,50 @@
 ## Project: Investigate a Dataset
 
 ### Project Overview
-This is the third project of Data Analyst Nanodegree at Udacity. It gives a hand-on experience in Pandas, NumPy and matplotlib.
+
+This is the third project of Data Analyst Nanodegree at Udacity. In this project, I will analyze a dataset and then communicate my findings about it. I will use the Python libraries NumPy, pandas, and Matplotlib to make my analysis easier.
+
+### Why this project
+
+In this project, I'll go through the data analysis process and see how everything fits together. Later Nanodegree projects will focus on individual pieces of the data analysis process ( like EDA, Data Wrangling and Data Story Telling ).
+
+I'll use the Python libraries NumPy, pandas, and Matplotlib, which make writing data analysis code in Python a lot easier! Not only that, these are sought-after skills by employers!
+
+### What I learned
+
+Some of the practices I learned from this project are:
+
+- Know all the steps involved in a typical data analysis process
+- Be comfortable posing questions that can be answered with a given dataset and then answering those questions
+- Know how to investigate problems in a dataset and wrangle the data into a format you can use
+- Have practice communicating the results of your analysis
+- Be able to use vectorized operations in NumPy and pandas to speed up your data analysis code
+- Be familiar with pandas' Series and DataFrame objects, which let you access your data more conveniently
+- Know how to use Matplotlib to produce plots showing your findings
 
 ### Description
-This data set is from the list of curated data sets provided by Udacity for this project.
+
+This data set is from the [list](https://docs.google.com/document/d/e/2PACX-1vTlVmknRRnfy_4eTrjw5hYGaiQim5ctr9naaRd4V9du2B5bxpd8FEH3KtDgp8qVekw7Cj1GLk1IXdZi/pub?embedded=True) of curated data sets provided by Udacity for this project.
 
 It contains information about 10,000 movies collected from The Movie Database(TMDb).
 
-* Certain columns, like ‘cast’ and ‘genres’, contain multiple values separated by pipe (|) characters.
+- Certain columns, like ‘cast’ and ‘genres’, contain multiple values separated by pipe (|) characters.
 
-* There are some odd characters in the ‘cast’ column. Don’t worry about cleaning them. You can leave them as is.
+- There are some odd characters in the ‘cast’ column. They are not important because this columns will not be included in my analysis.
 
-* The final two columns ending with “_adj” show the budget and revenue of the associated movie in terms of 2010 dollars accounting for inflation over time.
+- The final two columns ending with “_adj” show the budget and revenue of the associated movie in terms of 2010 dollars accounting for inflation over time.
 
 I posed some questions in the starting of the project and then addressed those questions in my analysis.
 
 I used Pandas, NumPy and matplotlib to generate statistical conclusion throughout my project.
 
-Limitations of this data are also mentioned after my conclusion.
+Limitations of this data are also mentioned in the conclusion part.
+
+### Libraries
+
+You will need an installation of Python, plus the following libraries:
+
+- pandas
+- NumPy
+- Matplotlib
+- csv
