@@ -44,6 +44,20 @@ It contains information about 10,000 movies collected from The Movie Database(TM
 - There are some odd characters in the ‘cast’ column. They are not important because this columns will not be included in our analysis.
 - The final two columns ending with “_adj” show the budget and revenue of the associated movie in terms of 2010 dollars accounting for inflation over time.
 
+### Files
+
+- Investigate_a_Dataset.ipynb
+
+This is the Jupyter Notebook where I perform the entire data analysis process.
+
+- report.html
+
+HTML export of above mentioned Jupyter Notebook.
+
+- tmdb_movies.csv
+
+This is the data which I used for this project.
+
 ### Libraries
 
 You will need an installation of Python, plus the following libraries:
